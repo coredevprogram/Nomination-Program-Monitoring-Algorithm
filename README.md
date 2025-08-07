@@ -1,11 +1,14 @@
 # Nomination-Program-Monitoring-Algorithm
 This is the repository in which the work for the Nomination program monitoring algorithm will take place / be finalized. 
 
+This task is part of Avail's Core Dev Program 
+(https://blog.availproject.org/lets-build-avail-together-join-the-core-dev-programme/)
+
 ## Build a Nomination Program Monitoring Algorithm for Avail
 
 **Grant**: $3000 in USDT
 
-**Applications open until**: (1 week from job posting, enter date) 
+**Applications open until**: 14th August 
 
 **Remote | Flexible Timeline | Protocol Growth Impact**
 
